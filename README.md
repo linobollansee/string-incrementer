@@ -20,10 +20,10 @@ A simple JavaScript function that increments a string by 1. If the string ends w
 ### Usage
 
 ```javascript
-incrementString("foo");       // Returns: "foo1"
-incrementString("foobar23");  // Returns: "foobar24"
-incrementString("foo0042");   // Returns: "foo0043"
-incrementString("foo099");    // Returns: "foo100"
+incrementString("foo"); // Returns: "foo1"
+incrementString("foobar23"); // Returns: "foobar24"
+incrementString("foo0042"); // Returns: "foo0043"
+incrementString("foo099"); // Returns: "foo100"
 ```
 
 ### How to Run
@@ -67,10 +67,10 @@ Eine einfache JavaScript-Funktion, die einen String um 1 inkrementiert. Wenn der
 ### Verwendung
 
 ```javascript
-incrementString("foo");       // Gibt zurück: "foo1"
-incrementString("foobar23");  // Gibt zurück: "foobar24"
-incrementString("foo0042");   // Gibt zurück: "foo0043"
-incrementString("foo099");    // Gibt zurück: "foo100"
+incrementString("foo"); // Gibt zurück: "foo1"
+incrementString("foobar23"); // Gibt zurück: "foobar24"
+incrementString("foo0042"); // Gibt zurück: "foo0043"
+incrementString("foo099"); // Gibt zurück: "foo100"
 ```
 
 ### Ausführen
@@ -82,6 +82,7 @@ node string_incrementer.js
 ### Code-Struktur
 
 Der Code ist in einem anfängerfreundlichen Stil geschrieben mit:
+
 - Jede Zeile auf Englisch und Deutsch kommentiert
 - Klare Variablennamen
 - Schritt-für-Schritt-Logikerklärung
